@@ -38,6 +38,8 @@ const Listings = () => {
 
     return (
         <div className="min-h-screen bg-gray-100">
+                    <h1 className="text-5xl text-center py-8 font-semi-bold " >Start Your Auction Now</h1>
+
             {/* <Header /> */}
             <main className="p-6">
                 {/* <Filters /> */}
